@@ -1,0 +1,5 @@
+body{background-image:url(girasoles.png); background-repeat: no-repeat; background-position:center;background-attachment: fixed;background-size:cover}
+.sun{color:white;background-image:url(gira.gif);background-attachment: fixed;font: small-caps 100%/200% serif;}
+img{border: 20px double goldenrod;}
+	p{color:goldenrod;font: oblique bold 120% cursive;background-color:khaki}
+pre{color:white}
