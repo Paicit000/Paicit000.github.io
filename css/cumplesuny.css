@@ -1,0 +1,7 @@
+p,ol,div{font-family: "Short Stack", cursive;
+  font-weight: 400;
+  font-style: normal;color:lightslategrey}
+  
+p{background-color:aliceblue}
+
+body{background-image:url(fondo.gif); background-repeat: no-repeat; background-position:center;background-attachment: fixed;}
